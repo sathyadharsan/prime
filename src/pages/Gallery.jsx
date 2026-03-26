@@ -4,12 +4,12 @@ import { Image as ImageIcon } from 'lucide-react';
 const Gallery = () => {
   // Using placehold.co for image placeholders
   const galleryItems = [
-    { id: 1, title: 'Transmission Line Construction', category: 'Electrical', src: '/images/transmission-line.jpg' },
-    { id: 2, title: 'Substation works', category: 'Electrical', src: '/images/substation.jpg' },
-    { id: 3, title: 'Road Grading', category: 'Infrastructure', src: '/images/road-grading.jpg' },
-    { id: 4, title: 'Earthworks', category: 'Civil', src: '/images/earthworks.jpg' },
-    { id: 5, title: 'Heavy Equipment at Site', category: 'Resources', src: '/images/heavy-equipment.jpg' },
-    { id: 6, title: 'Team in Action', category: 'Team', src: '/images/team-action.jpg' }
+    { id: 1, title: 'Transmission Line Construction', category: 'Electrical', src: '/images/site1.jpg' },
+    { id: 2, title: 'Substation works', category: 'Electrical', src: '/images/site2.jpg' },
+    { id: 3, title: 'Road Grading', category: 'Infrastructure', src: '/images/site3.jpg' },
+    { id: 4, title: 'Earthworks', category: 'Civil', src: '/images/site4.jpg' },
+    { id: 5, title: 'Heavy Equipment at Site', category: 'Resources', src: '/images/site5.jpg' },
+    { id: 6, title: 'Team in Action', category: 'Team', src: '/images/site6.jpg' }
   ];
 
   return (
