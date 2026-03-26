@@ -164,7 +164,7 @@ const Contact = () => {
                 left: 0,
                 width: '100%',
                 height: '100%',
-                backgroundImage: 'url("https://placehold.co/1200x400/e9ecef/6c757d?text=Interactive+Map+Placeholder")',
+                backgroundImage: 'url("/images/map-placeholder.jpg")',
                 backgroundSize: 'cover',
                 backgroundPosition: 'center',
                 opacity: 0.6
